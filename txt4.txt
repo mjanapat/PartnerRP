@@ -1,0 +1,1 @@
+txt4 file created to test POLL SCM concept
